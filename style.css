@@ -1,0 +1,51 @@
+#Datos{
+
+    color : #10eec5;
+    font-size: 20px; 
+   
+}
+body{
+
+   background-image: url("img/Aurelio.jpg");
+   background-size: 100% auto;
+}
+
+#Textotitulo{
+   color:rgb(229, 255, 0);
+   font-size: 40px;
+}
+#Titulo{
+   font-family: comic;
+   color: rgb(255, 238, 0);
+}
+#busqueda{
+   color:rgb(229, 255, 0);
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+}
+#ultimoParche{
+   color:rgb(229, 255, 0);
+   font-size: 40px;
+}
+
+#Textodecampeones{
+
+   font: arial;
+  right: 100px;
+   
+   color: bisque;
+   font-size: 18px;
+}
+
+#img{
+   
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   color: yellow;
+   
+
+}
+
+
+
+
